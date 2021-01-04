@@ -1,0 +1,11 @@
+# @(#) Data-Cloud/.gitignore
+# Last-edited: Mon 2021.01.04.1501 -- Danny Quah (me@DannyQuah.com)
+# ----------------------------------------------------------------
+# Revision History:
+#  % Mon 2021.01.04.1442 -- Danny Quah (me@DannyQuah.com)
+#    First draft: PURPOSE
+# ----------------------------------------------------------------
+*.xls
+.~lock*
+# eof Data-Cloud/.gitignore
+
